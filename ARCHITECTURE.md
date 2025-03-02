@@ -1,4 +1,4 @@
-Real time weather tracking system C4 diagrams
+Real time weather tracking system architecture C4 diagrams
 
 1. Context Diagram
 This diagram Shows the interaction between the User and the Weather Tracking System.
@@ -31,6 +31,3 @@ Illustrates how the main() function calls generate_weather() and receives the fo
 ![Screenshot_2-3-2025_224243_www mermaidchart com](https://github.com/user-attachments/assets/d9693550-319f-41e8-af61-bdf721543137)
 
 
-weather tracking system architecture diagram
-
-![image](https://github.com/user-attachments/assets/807390a8-2c6c-4075-b8fd-0d12a46bc753)
