@@ -13,7 +13,7 @@ Emergency Responder – Receives alerts for disaster response.
 Developer – Maintains and enhances system functionalities.
 Government Agency – Uses weather insights for policy and compliance.
 
-1.2 Use Cases
+2 Use Cases
 
 user cases:
  
@@ -26,7 +26,7 @@ Manage API Access – Third-party systems retrieve weather data.
 Monitor System Performance – Admins ensure system stability.
 Authenticate Users – Secure user access with multi-factor authentication.
 
-2 use case: receive alerts
+ use case: receive alerts
 
 Actor: General User, Emergency ResponderPrecondition: User has opted into notifications.Postcondition: User receives a timely alert about severe weather.
 
