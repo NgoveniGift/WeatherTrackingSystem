@@ -2,7 +2,7 @@ Assignment 5: Use Case Modeling and Test Case Development for Weather Tracking S
 
 1. Use Case diagram
 
-![Screenshot (21)](https://github.com/user-attachments/assets/05a4bdb2-41f6-4364-b291-024688c6fee0)
+![Screenshot (21)](https://github.com/user-attachments/assets/768f308a-fab6-432b-b93d-d0fe10ebb3a7)
 
 1.1 actors:
 
