@@ -42,7 +42,7 @@ Assignment 6: Agile User Stories, Backlog, and Sprint Planning for Weather Track
 
 5. Reflection
 
-   Challenges Faced:
+Challenges Faced:
 
 Prioritization: Determining which features should be included in the first sprint.
 Effort Estimation: Predicting development time for critical features while ensuring quality.
