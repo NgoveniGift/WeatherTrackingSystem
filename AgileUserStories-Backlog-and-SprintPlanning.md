@@ -17,7 +17,7 @@ Assignment 6: Agile User Stories, Backlog, and Sprint Planning for Weather Track
 
 2. Product Backlog
 
-   | Story ID | User Story | Priority (MoSCoW) | Effort Estimate | Dependencies |
+| Story ID | User Story | Priority (MoSCoW) | Effort Estimate | Dependencies |
 |----------|-----------|--------------------|-----------------|--------------|
 | US-001 | View real-time weather updates | Must-have | 3 | None |
 | US-002 | Receive severe weather alerts | Must-have | 3 | None |
@@ -32,7 +32,7 @@ Assignment 6: Agile User Stories, Backlog, and Sprint Planning for Weather Track
 
    Sprint Goal: Implement core weather update, alert functionality, and basic API access.
 
-   | Task ID | Task Description | Assigned To | Estimated Hours | Status |
+| Task ID | Task Description | Assigned To | Estimated Hours | Status |
 |---------|-----------------|-------------|----------------|--------|
 | T-001 | Develop weather API integration | Dev Team | 8 | To Do |
 | T-002 | Implement alert system | Dev Team | 6 | To Do |
