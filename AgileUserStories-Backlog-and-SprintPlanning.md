@@ -40,7 +40,20 @@ Assignment 6: Agile User Stories, Backlog, and Sprint Planning for Weather Track
 | T-004 | Implement system monitoring tools | DevOps Team | 7 | To Do |
 | T-005 | Ensure API security compliance | Security Team | 6 | To Do |
 
-5. Reflection
+4. Documentation & Clarity
+
+ | Story ID | Functional Requirement ID | Description |
+|----------|-------------------------|-------------|
+| US-001 | FR-002 | Real-time weather updates |
+| US-002 | FR-003 | Severe weather alerts |
+| US-003 | FR-004 | Configurable notifications |
+| US-004 | FR-006 | Historical data analysis |
+| US-005 | FR-008 | System monitoring |
+| US-006 | FR-007 | API data access |
+| US-007 | FR-005 | User-reported weather events |
+| US-008 | FR-009 | Secure user authentication |
+
+6. Reflection
 
 Challenges Faced:
 
